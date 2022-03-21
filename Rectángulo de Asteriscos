@@ -1,0 +1,18 @@
+Algoritmo RectanguloSher
+	
+	Escribir Sin Saltar "Introduce el ancho para el rectangulo: "
+	Leer ancho
+	Escribir Sin Saltar "Introduce el alto para el rectangulo: "
+	Leer alto
+	
+	Para fila<-1 Hasta alto Hacer
+		
+		Para columna <- 1 Hasta ancho Hacer
+			Escribir Sin Saltar "*" 
+		FinPara
+		
+		Escribir ""  // Avance de línea tras cada fila
+		
+	FinPara
+	
+FinAlgoritmo 
