@@ -1,0 +1,11 @@
+Algoritmo numeropositivoSher
+	definir numero Como Entero
+	
+	Repetir
+		escribir "Ingresa un numero entero";
+		leer numero
+	Hasta Que  numero >0
+	
+	Escribir "El numero es positivo"
+	
+FinAlgoritmo
