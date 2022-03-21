@@ -1,0 +1,5 @@
+Algoritmo NumerosSher
+    Para x <- 10 Hasta 80 Con Paso 2 Hacer
+        Escribir x
+    FinPara
+FinAlgoritmo
