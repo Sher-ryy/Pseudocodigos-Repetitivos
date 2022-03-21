@@ -1,0 +1,12 @@
+Algoritmo SumasSher
+    Escribir "Escribe un numero"
+    Leer x
+    suma <- 0
+    Mientras x <> 0 Hacer
+        suma <- suma + x
+        Escribir "La suma hasta ahora es ", suma
+        Escribir "Escribe otro numero"
+        Leer x
+    FinMientras
+    Escribir "Listo"
+FinAlgoritmo
